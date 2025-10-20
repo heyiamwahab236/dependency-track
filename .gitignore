@@ -12,6 +12,9 @@ target/
 .project
 .vscode/
 
+# Ignore terminal commands log
+terminal-commands-log.doc
+
 # windows
 ~
 
